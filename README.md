@@ -10,7 +10,7 @@
 
 ## English
 
-**Open-CCW** is an open-source organization building third-party tools and ecosystem for **CCW (Creative Cloud World / [ccw.site](https://ccw.site) / [cocrea.world](https://cocrea.world))** and the **Gandi IDE** — a Scratch 3.0 based creative coding community. Our projects include community REST APIs, HTTP client SDKs (Axios / Request), real-time teamwork WebSocket services, a third-party CCW launcher/player, custom Scratch extensions, and the Gandi IDE renderer and file storage layer.
+**Open-CCW** is an open-source organization building third-party tools and ecosystem for **CCW ([ccw.site](https://ccw.site) / [cocrea.world](https://cocrea.world))** and the **Gandi IDE** — a Scratch 3.0 based creative coding community. Our projects include community REST APIs, HTTP client SDKs (Axios / Request), real-time teamwork WebSocket services, a third-party CCW launcher/player, custom Scratch extensions, and the Gandi IDE renderer and file storage layer.
 
 **Keywords:** CCW, ccw.site, cocrea.world, Gandi IDE, Scratch 3.0, Scratch API, community API, third-party launcher, WebSocket teamwork, custom extension, open source
 
