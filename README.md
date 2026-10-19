@@ -10,15 +10,15 @@
 
 ## English
 
-**Open-CCW** is an open-source organization building third-party tools and ecosystem for **CCW (Creative Cloud World / ccw.fun)** and the **Gandi IDE** — a Scratch 3.0 based creative coding community. Our projects include community REST APIs, HTTP client SDKs (Axios / Request), real-time teamwork WebSocket services, a third-party CCW launcher/player, custom Scratch extensions, and the Gandi IDE renderer and file storage layer.
+**Open-CCW** is an open-source organization building third-party tools and ecosystem for **CCW (Creative Cloud World / [ccw.site](https://ccw.site) / [cocrea.world](https://cocrea.world))** and the **Gandi IDE** — a Scratch 3.0 based creative coding community. Our projects include community REST APIs, HTTP client SDKs (Axios / Request), real-time teamwork WebSocket services, a third-party CCW launcher/player, custom Scratch extensions, and the Gandi IDE renderer and file storage layer.
 
-**Keywords:** CCW, ccw.fun, Gandi IDE, Scratch 3.0, Scratch API, community API, third-party launcher, WebSocket teamwork, custom extension, open source
+**Keywords:** CCW, ccw.site, cocrea.world, Gandi IDE, Scratch 3.0, Scratch API, community API, third-party launcher, WebSocket teamwork, custom extension, open source
 
 ## 中文
 
-**Open-CCW** 是一个围绕 **CCW（ccw.fun 创意社区）** 与 **Gandi IDE**（基于 Scratch 3.0 的创意编程社区）建设的开源组织。我们维护 CCW 社区 API、第三方请求库（Axios / Request 封装）、实时协作 WebSocket 服务、第三方 CCW 启动器 / 播放器、Scratch 自定义扩展，以及 Gandi IDE 的渲染器与工程文件存取层。
+**Open-CCW** 是一个围绕 **CCW（[ccw.site](https://ccw.site) / [cocrea.world](https://cocrea.world) 创意社区）** 与 **Gandi IDE**（基于 Scratch 3.0 的创意编程社区）建设的开源组织。我们维护 CCW 社区 API、第三方请求库（Axios / Request 封装）、实时协作 WebSocket 服务、第三方 CCW 启动器 / 播放器、Scratch 自定义扩展，以及 Gandi IDE 的渲染器与工程文件存取层。
 
-**关键词：** CCW、ccw.fun、Gandi IDE、Scratch 3.0、Scratch API、社区 API、第三方启动器、WebSocket 协作、自定义扩展、开源
+**关键词：** CCW、ccw.site、cocrea.world、Gandi IDE、Scratch 3.0、Scratch API、社区 API、第三方启动器、WebSocket 协作、自定义扩展、开源
 
 ---
 

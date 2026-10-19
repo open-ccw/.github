@@ -1,8 +1,8 @@
 ## Open-CCW | CCW 开源社区
 
-**Open-CCW** is an open-source organization building third-party tools and ecosystem for **CCW (ccw.fun)** and the **Gandi IDE** — a Scratch 3.0 based creative coding community. / 围绕 CCW（ccw.fun 创意社区）与 Gandi IDE（基于 Scratch 3.0）建设的开源组织。
+**Open-CCW** is an open-source organization building third-party tools and ecosystem for **CCW ([ccw.site](https://ccw.site) / [cocrea.world](https://cocrea.world))** and the **Gandi IDE** — a Scratch 3.0 based creative coding community. / 围绕 CCW（ccw.site / cocrea.world 创意社区）与 Gandi IDE（基于 Scratch 3.0）建设的开源组织。
 
-**Keywords:** CCW, ccw.fun, Gandi IDE, Scratch 3.0, Scratch API, community API, third-party launcher, WebSocket teamwork, custom extension
+**Keywords:** CCW, ccw.site, cocrea.world, Gandi IDE, Scratch 3.0, Scratch API, community API, third-party launcher, WebSocket teamwork, custom extension
 
 ### Projects / 开源项目
 
